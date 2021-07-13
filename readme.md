@@ -12,6 +12,6 @@
 - :man_technologist: I'm currently working full stack .NET (Blazor, .NET Core C#, EF Core)
 - :computer: On the side, I’m working on various discord bots
 - :construction_worker_man: I run the (inactive) youtube channel PassiveModding which focussed on PS3 console modifications and real time memory editing tools
-- :seedling: Visit my discord community https://discord.me/passive
+- :seedling: Visit my discord community https://discord.gg/passive
 
 If you like my work and want me to be able to keep improving it, please [sponsor me on BuyMeACoffee](https://www.buymeacoffee.com/Jaquesy).
