@@ -1,4 +1,4 @@
-### Hi there, I'm Passive :wave:
+### Hi there, I'm Jaquesy :wave:
 
 <p align="center">
   <a href="https://github.com/passivemodding/">
