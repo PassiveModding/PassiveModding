@@ -9,7 +9,5 @@
   </a>
 </p>
  
-- :man_technologist: I'm currently working full stack .NET (Blazor, .NET Core C#, EF Core)
-- :computer: On the side, I’m working on various discord bots
 
 If you like my work and want me to be able to keep improving it, please [sponsor me on BuyMeACoffee](https://www.buymeacoffee.com/Jaquesy).
