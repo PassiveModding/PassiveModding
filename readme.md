@@ -8,6 +8,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passivemodding&layout=compact&show_icons=true&langs_count=8&theme=tokyonight" />
   </a>
 </p>
- 
-
-If you like my work and want me to be able to keep improving it, please [sponsor me on BuyMeACoffee](https://www.buymeacoffee.com/Jaquesy).
