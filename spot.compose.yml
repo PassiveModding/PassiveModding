@@ -1,0 +1,22 @@
+version: '3.3'
+services:
+  npm:
+    image: 'jc21/nginx-proxy-manager:latest'
+    restart: unless-stopped
+    ports:
+      - '80:80'
+      - '81:81'
+      - '443:443'
+    volumes:
+      - './data:/data'
+      - './letsencrypt:/etc/letsencrypt'
+  portainer-ce:
+    image: 'portainer/portainer-ce:2.9.3'
+    ports:
+      - '8000:8000'
+      - '9443:9443'
+    container_name: portainer
+    restart: unless-stopped
+    volumes:
+      - '/var/run/docker.sock:/var/run/docker.sock'
+      - 'portainer_data:/data'
