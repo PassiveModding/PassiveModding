@@ -17,6 +17,7 @@ I'm an Australian DevOps Engineer with a background in software development.
 ## Certifications
 - HashiCorp Certified: Terraform Associate (002)
 - Bachelor of Computer Science (The University of Newcastle, Australia)
+- Google Cloud Certified: Associate Cloud Engineer
 
 ## In my free time
 In my free time, I love to explore my passion for technology and problem-solving. This often involves working on game modifications and plugins, writing Discord bots, and tackling any technical challenges that come my way, particularly if they offer an opportunity to learn something new.
