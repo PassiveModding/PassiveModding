@@ -1,6 +1,6 @@
 # Hi there, I'm Jaquesy :wave:
 
-I'm an Australian DevOps Engineer with a background in software development.
+I'm an Australian Cloud Engineer with a background in software development.
 
 ## Technologies I've Worked With
 
