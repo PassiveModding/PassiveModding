@@ -25,5 +25,9 @@ In my free time, I love to explore my passion for technology and problem-solving
 
 Github is a great platform for developers to showcase their work and connect with other developers. Feel free to check out my repositories or send me a message if you want to chat or collaborate on something.
 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=passivemodding&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/PassiveModding)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=passivemodding&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passivemodding&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+</a>
